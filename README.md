@@ -1,4 +1,3 @@
-[readme_md.md](https://github.com/user-attachments/files/35062205/readme_md.md)
 # ⚡ Calculadora de Consumo de Combustible y Comparación de Movilidad Eléctrica
 
 Aplicación web interactiva desarrollada en **Streamlit** para estimar la línea base de consumo de combustible (galones, costos en COP y emisiones de $\text{CO}_2$ operacional) de una flota vehicular y compararla frente a alternativas de vehículos eléctricos comercializados en Colombia.
