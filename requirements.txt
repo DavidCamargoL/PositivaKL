@@ -3,3 +3,4 @@ pandas
 numpy
 scikit-learn==1.6.1
 joblib
+reportlab==4.2.5
